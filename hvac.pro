@@ -1,4 +1,4 @@
-update=Sat 06 May 2017 05:20:12 PM MDT
+update=Sat 06 May 2017 06:11:13 PM MDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,9 +23,11 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=/home/achew22/Projects/SparkFun-Kicad-Libraries
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -56,5 +58,26 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
-version=1
+LibName30=adafruit
+LibName31=GeekAmmo
+LibName32=LilyPad-Wearables
+LibName33=SparkFun-Aesthetics
+LibName34=SparkFun-AnalogIC
+LibName35=SparkFun-Boards
+LibName36=SparkFun-Capacitors
+LibName37=SparkFun-Connectors
+LibName38=SparkFun-DigitalIC
+LibName39=SparkFun-DiscreteSemi
+LibName40=SparkFun-Displays
+LibName41=SparkFun-Electromechanical
+LibName42=SparkFun-FreqCtrl
+LibName43=SparkFun-LED
+LibName44=SparkFun-Passives
+LibName45=SparkFun-PowerIC
+LibName46=SparkFun-Resistors
+LibName47=SparkFun-Retired
+LibName48=SparkFun-RF
+LibName49=SparkFun-Sensors
+LibName50=Teensy_3_and_LC_Series_Boards_v1.1
+LibName51=User-Submitted
+LibName52=homebrew
