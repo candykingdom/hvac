@@ -21,7 +21,7 @@ Voltage at Max Drop 11.64 V
 
 Data:
 
- *  [Board Side](https://www.digikey.com/product-detail/en/molex-llc/0534260610/WM3425-ND/2405233)
- *  [Cable Side](https://www.digikey.com/product-detail/en/molex-llc/0511020600/WM13235-ND/3262490)
+ *  [Board Side](https://www.digikey.com/short/3nbvwp)
+ *  [Cable Side](https://www.digikey.com/product-detail/en/molex-llc/0511030900/WM13237-ND/3262504)
  *  [Crimp](https://www.digikey.com/product-detail/en/molex-llc/0503518000/WM3320CT-ND/2405712)
 
