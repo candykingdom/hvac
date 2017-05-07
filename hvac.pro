@@ -1,4 +1,4 @@
-update=Sat 06 May 2017 06:11:13 PM MDT
+update=Sun 07 May 2017 12:01:10 PM MDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -81,3 +81,13 @@ LibName49=SparkFun-Sensors
 LibName50=Teensy_3_and_LC_Series_Boards_v1.1
 LibName51=User-Submitted
 LibName52=homebrew
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/home/achew22/Projects/hvac/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
