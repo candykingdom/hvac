@@ -1,4 +1,4 @@
-update=Sun 07 May 2017 12:01:10 PM MDT
+update=Sun 07 May 2017 12:45:33 PM MDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,9 +25,19 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/home/achew22/Projects/hvac/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
-LibDir=/home/achew22/Projects/SparkFun-Kicad-Libraries
+LibDir=/home/achew22/Projects/SparkFun-Kicad-Libraries;/home/achew22/Projects/EDALibraries/KiCad;/home/achew22/Projects/EDALibraries/KiCad/Footprints
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -81,13 +91,15 @@ LibName49=SparkFun-Sensors
 LibName50=Teensy_3_and_LC_Series_Boards_v1.1
 LibName51=User-Submitted
 LibName52=homebrew
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=/home/achew22/Projects/hvac/
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName53=Schematics/MF_Aesthetics
+LibName54=Schematics/MF_Connectors
+LibName55=Schematics/MF_Discrete_Semiconductor
+LibName56=Schematics/MF_Displays
+LibName57=Schematics/MF_Frequency_Control
+LibName58=Schematics/MF_IC_Analog
+LibName59=Schematics/MF_IC_Digital
+LibName60=Schematics/MF_IC_Power
+LibName61=Schematics/MF_LEDs
+LibName62=Schematics/MF_Passives
+LibName63=Schematics/MF_Sensors
+LibName64=Schematics/MF_Switches
