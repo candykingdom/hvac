@@ -1,5 +1,11 @@
 # Playa engineering!
 
+## Installing the breadboard in arduino
+
+You have to install the board type "atmega328 on a breadboard". Follow the
+instructions in [Minimal Circuit (Eliminating the External
+Clock)](https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard)
+
 ## Digikey components
 
 
