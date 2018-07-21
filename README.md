@@ -44,3 +44,7 @@ More components:
 
 TODO:
  *  Mounting holes for the face plate.
+ *  Add labels for the switches and pots
+ *  The timer button has pin 2 wired to the micro but in real life pin 3 should be it. i.e. the spec says the switches are horizontal but they are actually vertical.
+ *  Switch to ARM
+ *  The pins that were chosen for i2c turned out to be the same pins that were used for the crystal. The crystal pins required tedious manual intervention to interact with them.
